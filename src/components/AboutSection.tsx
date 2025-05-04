@@ -182,8 +182,8 @@ const AboutSection = () => {
             >
               <Avatar className="w-40 h-40 border-4 border-primary/20">
                 <AvatarImage
-                  src="/imgs/profile.jpg"
-                  alt="Yogesh Kumar"
+                  src="/imgs/profile.png"
+                  alt="Manohar Solanki"
                   loading="lazy"
                 />
                 <AvatarFallback>NS</AvatarFallback>
