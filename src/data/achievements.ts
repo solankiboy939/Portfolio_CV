@@ -51,7 +51,7 @@ export const achievements: Achievement[] = [
   },
   {
     id: 5,
-    title: "AData Science BootCamp - From Analysing Data To Creating ML Models",
+    title: "Data Science BootCamp - From Analysing Data To Creating ML Models",
     type: "Certificate Link",
     year: "2024",
     description: "has successfully completed a 6-week course on Data Science BootCamp - From Analysing Data To Creating ML Models.",
