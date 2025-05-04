@@ -186,7 +186,7 @@ const AboutSection = () => {
                   alt="Manohar Solanki"
                   loading="lazy"
                 />
-                <AvatarFallback>NS</AvatarFallback>
+                <AvatarFallback>MS</AvatarFallback>
               </Avatar>
               {/* <div className="absolute -bottom-2 -right-2 bg-primary text-primary-foreground px-3 py-1 rounded-full text-sm font-medium">
                 3.41 GPA
@@ -217,7 +217,13 @@ const AboutSection = () => {
                 Python
               </Badge> */}
               <Badge variant="outline" className="bg-primary/10">
+                Java
+              </Badge>
+              <Badge variant="outline" className="bg-primary/10">
                 DSA
+              </Badge>
+              <Badge variant="outline" className="bg-primary/10">
+                Python
               </Badge>
             </motion.div>
 
