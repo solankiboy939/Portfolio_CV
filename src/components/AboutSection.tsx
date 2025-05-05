@@ -157,7 +157,7 @@ const AboutSection = () => {
                           Full Stack Developer Intern
                         </p> */}
                         <p className="text-sm text-muted-foreground">
-                          Solved 100+ problems on coding platforms, ans earned certificatesin Machine Learning and NLP
+                          Solved 100+ problems on coding platforms, and earned certificates in Machine Learning and NLP
                         </p>
                       </div>
                     </div>
