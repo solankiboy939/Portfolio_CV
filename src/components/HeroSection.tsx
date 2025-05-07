@@ -262,7 +262,6 @@ const HeroSection = () => {
 
                 <div>
                   <span className="text-orange-500">{"}"}</span>
-                  <span className="text-gray-500">;</span>
                 </div>
               </div>
             </motion.div>
