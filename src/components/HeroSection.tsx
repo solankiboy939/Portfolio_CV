@@ -56,7 +56,7 @@ const HeroSection = () => {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.6, delay: 0.4 }}
           >
-            Manohar{" "}
+            Manohar {" "}
             <motion.span
               className="highlight-text"
               initial={{ backgroundSize: "0% 3px" }}
@@ -193,7 +193,7 @@ const HeroSection = () => {
                     whileHover={{ scale: 1.2 }}
                   />
                 </div>
-                <div className="text-xs text-gray-500">engineer.py</div>
+                <div className="text-xs text-gray-500">hello_engineer.py</div>
               </div>
 
               <div className="space-y-2 font-mono text-sm">
@@ -211,7 +211,7 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">"name"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">"Manohar Solanki"</span>
+                  <span className="text-green-600">"👨‍💻 Manohar Solanki"</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
 
@@ -259,11 +259,6 @@ const HeroSection = () => {
                   <span className="text-gray-500">:</span>{" "}
                   <span className="text-green-600">"🧠 Always curious, always growing!"</span>
                 </motion.div>
-              
-                <div>
-                  <span className="text-orange-500">{"}"}</span>
-                </div>
-              </div>
 
                 <div>
                   <span className="text-orange-500">{"}"}</span>
