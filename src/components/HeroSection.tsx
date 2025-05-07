@@ -197,9 +197,8 @@ const HeroSection = () => {
               </div>
 
               <div className="space-y-2 font-mono text-sm">
-                <div className="text-gray-500">{"// Software Engineer"}</div>
+                <div className="text-gray-500">{"# Machine Learning Engineer"}</div>
                 <div>
-                  <span className="text-pink-600">const</span>{" "}
                   <span className="text-blue-600">engineer</span>{" "}
                   <span className="text-gray-500">=</span>{" "}
                   <span className="text-orange-500">{"{"}</span>
@@ -210,9 +209,9 @@ const HeroSection = () => {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 1.4, duration: 0.3 }}
                 >
-                  <span className="text-purple-600">name</span>
+                  <span className="text-purple-600">"name"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">'Manohar Solanki'</span>
+                  <span className="text-green-600">"Manohar Solanki"</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
 
@@ -222,14 +221,14 @@ const HeroSection = () => {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 1.6, duration: 0.3 }}
                 >
-                  <span className="text-purple-600">skills</span>
+                  <span className="text-purple-600">"skills"</span>
                   <span className="text-gray-500">:</span>{" "}
                   <span className="text-orange-500">[</span>
-                  <span className="text-green-600">'C++'</span>
+                  <span className="text-green-600">"C++"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">'Python'</span>
+                  <span className="text-green-600">"Python"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">'DSA'</span>
+                  <span className="text-green-600">"DSA"</span>
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
@@ -240,12 +239,12 @@ const HeroSection = () => {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 1.8, duration: 0.3 }}
                 >
-                  <span className="text-purple-600">focuses</span>
+                  <span className="text-purple-600">"focuses"</span>
                   <span className="text-gray-500">:</span>{" "}
                   <span className="text-orange-500">[</span>
-                  <span className="text-green-600">'Machine Learning'</span>
+                  <span className="text-green-600">"Machine Learning"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">'Data Science'</span>
+                  <span className="text-green-600">"Data Science"</span>
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
@@ -256,9 +255,9 @@ const HeroSection = () => {
                   animate={{ opacity: 1, x: 0 }}
                   transition={{ delay: 2.0, duration: 0.3 }}
                 >
-                  <span className="text-purple-600">learning</span>
+                  <span className="text-purple-600">"learning"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">'Always'</span>
+                  <span className="text-green-600">"Always"</span>
                 </motion.div>
 
                 <div>
