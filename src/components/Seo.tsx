@@ -9,7 +9,7 @@ interface SeoProps {
 
 const Seo = ({
   title = "Manohar Solanki | Computer Science Student",
-  description = "Portfolio website of Yogesh Kumar",
+  description = "Portfolio website of Manohar Solanki",
   keywords = "Manohar Solanki",
   ogImage = "/logo.png",
 }: SeoProps) => {
