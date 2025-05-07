@@ -156,12 +156,13 @@ const AboutSection = () => {
                         {/* <p className="font-medium">
                           Full Stack Developer Intern
                         </p> */}
-                        <p className="text-sm text-muted-foreground">
-                          - Solved 100+ problems on coding platforms, and earned certificates in Machine Learning and NLP<br />
-                          - Passionate about AGI, sustainability, and creating tech that solves real-world problems<br />
-                          - Gained certifications and training from GeeksforGeeks and academic projects in MLDS<br />
-                          - Built multiple Python-based ML/AI projects (e.g., Student Performance Predictor, Spam Email Detector, Play Store Review Analyzer).
-                        </p>
+                        <ul className="text-sm text-muted-foreground list-disc ml-4">
+                          <li>Solved 100+ problems on coding platforms, and earned certificates in Machine Learning and NLP</li>
+                          <li>Passionate about AGI, sustainability, and creating tech that solves real-world problems</li>
+                          <li>Gained certifications and training from GeeksforGeeks and academic projects in MLDS</li>
+                          <li>Built multiple Python-based ML/AI projects (e.g., Student Performance Predictor, Spam Email Detector, Play Store Review Analyzer)</li>
+                        </ul>
+
                       </div>
                     </div>
                   </CardContent>
