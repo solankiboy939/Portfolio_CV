@@ -157,10 +157,10 @@ const AboutSection = () => {
                           Full Stack Developer Intern
                         </p> */}
                         <p className="text-sm text-muted-foreground">
-                          -Solved 100+ problems on coding platforms, and earned certificates in Machine Learning and NLP<br>
-                          -Passionate about AGI, sustainability, and creating tech that solves real-world problems<br>
-                          -Gained certifications and training from GeeksforGeeks and academic projects in MLDS<br>
-                          -uilt multiple Python-based ML/AI projects (e.g., Student Performance Predictor, Spam Email Detector, Play Store Review Analyzer).
+                          - Solved 100+ problems on coding platforms, and earned certificates in Machine Learning and NLP<br />
+                          - Passionate about AGI, sustainability, and creating tech that solves real-world problems<br />
+                          - Gained certifications and training from GeeksforGeeks and academic projects in MLDS<br />
+                          - Built multiple Python-based ML/AI projects (e.g., Student Performance Predictor, Spam Email Detector, Play Store Review Analyzer).
                         </p>
                       </div>
                     </div>
