@@ -193,16 +193,17 @@ const HeroSection = () => {
                     whileHover={{ scale: 1.2 }}
                   />
                 </div>
-                <div className="text-xs text-gray-500">engineer.js</div>
+                <div className="text-xs text-gray-500">engineer.py</div>
               </div>
 
               <div className="space-y-2 font-mono text-sm">
-                <div className="text-gray-500">{"# Machine Learning Engineer"}</div>
+                <div className="text-gray-500">{"# 🚀 Machine Learning Engineer"}</div>
                 <div>
                   <span className="text-blue-600">engineer</span>{" "}
                   <span className="text-gray-500">=</span>{" "}
                   <span className="text-orange-500">{"{"}</span>
                 </div>
+              
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -211,10 +212,10 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">"name"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">"Manohar Solanki"</span>
+                  <span className="text-green-600">"👨‍💻 Manohar Solanki"</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-
+              
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -224,15 +225,15 @@ const HeroSection = () => {
                   <span className="text-purple-600">"skills"</span>
                   <span className="text-gray-500">:</span>{" "}
                   <span className="text-orange-500">[</span>
-                  <span className="text-green-600">"C++"</span>
+                  <span className="text-green-600">"⚙️ C++"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">"Python"</span>
+                  <span className="text-green-600">"🐍 Python"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">"DSA"</span>
+                  <span className="text-green-600">"📊 DSA"</span>
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-
+              
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -242,13 +243,13 @@ const HeroSection = () => {
                   <span className="text-purple-600">"focuses"</span>
                   <span className="text-gray-500">:</span>{" "}
                   <span className="text-orange-500">[</span>
-                  <span className="text-green-600">"Machine Learning"</span>
+                  <span className="text-green-600">"🤖 Machine Learning"</span>
                   <span className="text-gray-500">,</span>{" "}
-                  <span className="text-green-600">"Data Science"</span>
+                  <span className="text-green-600">"📈 Data Science"</span>
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-
+              
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -257,8 +258,13 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">"learning"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">"Always"</span>
+                  <span className="text-green-600">"📚 Always curious, always growing!"</span>
                 </motion.div>
+              
+                <div>
+                  <span className="text-orange-500">{"}"}</span>
+                </div>
+              </div>
 
                 <div>
                   <span className="text-orange-500">{"}"}</span>
