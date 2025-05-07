@@ -197,13 +197,12 @@ const HeroSection = () => {
               </div>
 
               <div className="space-y-2 font-mono text-sm">
-                <div className="text-gray-500">{"# 🚀 Machine Learning Engineer"}</div>
+                <div className="text-gray-500">{"# Machine Learning Engineer"}</div>
                 <div>
                   <span className="text-blue-600">engineer</span>{" "}
                   <span className="text-gray-500">=</span>{" "}
                   <span className="text-orange-500">{"{"}</span>
                 </div>
-              
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -212,10 +211,10 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">"name"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">"👨‍💻 Manohar Solanki"</span>
+                  <span className="text-green-600">"Manohar Solanki"</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-              
+
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -233,7 +232,7 @@ const HeroSection = () => {
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-              
+
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -249,7 +248,7 @@ const HeroSection = () => {
                   <span className="text-orange-500">]</span>
                   <span className="text-gray-500">,</span>
                 </motion.div>
-              
+
                 <motion.div
                   className="pl-6"
                   initial={{ opacity: 0, x: -10 }}
@@ -258,7 +257,7 @@ const HeroSection = () => {
                 >
                   <span className="text-purple-600">"learning"</span>
                   <span className="text-gray-500">:</span>{" "}
-                  <span className="text-green-600">"📚 Always curious, always growing!"</span>
+                  <span className="text-green-600">"🧠 Always curious, always growing!"</span>
                 </motion.div>
               
                 <div>
