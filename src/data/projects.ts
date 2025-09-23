@@ -61,7 +61,7 @@ export const projects: Project[] = [
   id: 5,
     title: "To-Visit List Chrome Extension",
     description: "A productivity Chrome extension to save websites for later, reduce tab clutter, and stay focused. Features: Right-click save, Undo delete, Dark mode, Categories, Export/Import, Stats, and motivational quotes!",
-    image: "/imgs/p4.png",
+    image: "/imgs/iconss.png",
     tags: ["JavaScript", "Chrome Extension", "Productivity", "Manifest V3"],
     links: {
       github: "https://github.com/solankiboy939/to-visit-list-extension", // <-- आपका GitHub URL
