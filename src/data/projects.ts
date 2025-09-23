@@ -57,4 +57,15 @@ export const projects: Project[] = [
       live: "https://deeptrendz-h9rnzbvwhu22rbpsxqh9kx.streamlit.app/",
     },
   },
+  {
+  id: 5,
+    title: "To-Visit List Chrome Extension",
+    description: "A productivity Chrome extension to save websites for later, reduce tab clutter, and stay focused. Features: Right-click save, Undo delete, Dark mode, Categories, Export/Import, Stats, and motivational quotes!",
+    image: "https://via.placeholder.com/400x200/4CAF50/FFFFFF?text=To-Visit+List",
+    tags: ["JavaScript", "Chrome Extension", "Productivity", "Manifest V3"],
+    links: {
+      github: "https://github.com/solankiboy939/to-visit-list-extension", // <-- आपका GitHub URL
+      live: "https://github.com/solankiboy939/to-visit-list-extension/releases" // <-- ZIP Download
+    },
+  },
 ];
