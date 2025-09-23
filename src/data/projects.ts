@@ -64,8 +64,8 @@ export const projects: Project[] = [
     image: "/imgs/iconss.png",
     tags: ["JavaScript", "Chrome Extension", "Productivity", "Manifest V3"],
     links: {
-      github: "https://github.com/solankiboy939/to-visit-list-extension", // <-- आपका GitHub URL
-      live: "https://github.com/solankiboy939/to-visit-list-extension/releases" // <-- ZIP Download
+      github: "https://github.com/solankiboy939/to-visit-list-extension", //
+      live: "https://github.com/solankiboy939/to-visit-list-extension" //
     },
   },
 ];
