@@ -19,8 +19,8 @@ export const projects: Project[] = [
     image: "/imgs/p4.png",
     tags: ["Python","Pandas","NumPy","Seaborn","Scikit-learn","TensorFlow","Streamlit","YOLOv8", "OpenCV","PyTorch","ultralytics"],
     links: {
-      github: "https://github.com/solankiboy939/watermark-logo-detection-",
-      live: "https://watermarklogodetecti0n.streamlit.app/",
+      github: "https://github.com/solankiboy939/to-visit-list-extension",
+      live: "https://github.com/solankiboy939/to-visit-list-extension",
     },
   },
   {
