@@ -96,7 +96,7 @@ const AboutSection = () => {
                   <div className="space-y-0 mb-4">
                     <p className="font-medium">Lovely Professional University</p>
                     <p className="text-sm text-muted-foreground">2022 - Present</p>
-                    <p className="text-sm text-muted-foreground">Computer Science and Engineering, CGPA - 6.9</p>
+                    <p className="text-sm text-muted-foreground">Computer Science and Engineering, CGPA - 7.04</p>
                   </div>
                   <div className="space-y-0 mb-4">
                     <p className="font-medium">Ramsnehi Education Hub</p>
