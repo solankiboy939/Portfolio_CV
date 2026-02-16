@@ -1,5 +1,5 @@
 export const Links = {
-    github: "https://github.com/solankiboy939",
+    github: "https://github.com/solankimanohar",
     linkedin: "https://www.linkedin.com/in/mr-manohar-solanki/",
     email: "mailto:Manohar.kumar.cs@gmail.com",
     resume: "https://drive.google.com/file/d/15l06lnsz_Qi5p50V6lV9dWZu81Szp1OP/view?usp=sharing",
